@@ -1,27 +1,24 @@
 {
-  "name": "awesome-angular2",
+  "name": "awesome-angular",
   "version": "0.0.0",
-  "description": "A curated list of awesome Angular 2 resources",
-  "main": "readme.md",
+  "description": ":page_facing_up: A curated list of awesome Angular resources",
+  "main": "README.md",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "angular2",
-    "angular 2",
-    "AngularClass",
+    "angular",
     "awesome",
-    "awesome list",
-    "awesome angular 2"
+    "awesome-list"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AngularClass/awesome-angular2.git"
+    "url": "git+https://github.com/PatrickJS/awesome-angular.git"
   },
-  "author": "AngularClass",
-  "license": "CC0",
+  "author": "PatrickJS",
+  "license": "CC0-1.0",
   "bugs": {
-    "url": "https://github.com/AngularClass/awesome-angular2/issues"
+    "url": "https://github.com/PatrickJS/awesome-angular/issues"
   },
-  "homepage": "https://github.com/AngularClass/awesome-angular2#readme"
+  "homepage": "https://github.com/PatrickJS/awesome-angular#readme"
 }
