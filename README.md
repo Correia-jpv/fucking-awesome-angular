@@ -951,6 +951,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [fsm-state-manager](https://github.com/NikitaTopchii/fsm-state-manager) - A simple, flexible and strongly-typed finite state machine manager for managing state transitions in Angular or any TypeScript-based application.
 * [signaltree](https://github.com/JBorgia/signaltree) - A powerful, type-safe, modular signal-based state management solution for Angular applications.
 * [ngx-simple-signal-store](https://github.com/adamcsk1/ngx-simple-signal-store) - A simple way to create signal stores with a read-only interface.
+* [angulator](https://github.com/angulator-dev/angulator) - A lightweight Angular [mediator](https://refactoring.guru/design-patterns/mediator) library, designed to simplify communication between different parts of your application using a request/response and notification/handler pattern.
 
 ## Testing
 
