@@ -2044,6 +2044,7 @@ for the creation of web applications developed with Angular.
 * [c3-components](https://github.com/c3ulnta0rk/c3-components) - An open-source component library that extends the `@angular/material` library.
 * [simplematcomponents](https://github.com/wobkenh/simplematcomponents) - Set of Angular components that fit into or use Angular Material Design.
 * [Angular Material Dev UI](https://ui.angular-material.dev/home) - One place stop for developers to explore components and blocks for their Angular Material and Tailwind CSS based applications.
+* [nmce](https://github.com/zijianhuang/nmce) – A suite of Angular Material Component Extensions delivering reusable code and UI enhancements for complex business applications with rich data structures, intensive GUIs, and complex workflows.
 
 ### UI Libraries built on Tailwind CSS
 
