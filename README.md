@@ -1801,7 +1801,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngify](https://github.com/ngify/ngify) - Use Angular features outside of Angular.
 * [angular-kit](https://github.com/mikelgo/angular-kit) - A set of powerful Angular tools including pipes, lifecycle hooks, and reactive enhancements.
 * [angular-ru-sdk](https://github.com/Angular-RU/angular-ru-sdk) - Set of toolchains for common interaction patterns, abstracting Angular core functionalities without presentation bias.
-* [dfts-common](https://github.com/Dafnik/dfts-common) - Collection of TypeScript and Angular libraries (QR Code, Bootstrap table and icons, and other utilities).
+* [dfts-common](https://github.com/Dafnik/dfts-common) - Collection of TypeScript libraries (icons and other utilities).
+* [dfx-common](https://github.com/Dafnik/dfx-common) - Collection of Angular libraries including `dfx-qrcode` and more.
 * [sba-angular](https://github.com/sinequa/sba-angular) - [Sinequa's](https://www.sinequa.com/) Angular-based Search Based Application (SBA) Framework.
 * [ng-as](https://www.npmjs.com/package/ng-as) - Angular pipe and directive for type casting template variables.
 * [angular-toolbox](https://github.com/pechemann/angular-toolbox) - A library that provides useful tools for Angular apps development.
